@@ -1,0 +1,23 @@
+
+body{
+    background-color: blue;
+}
+
+h1{
+    background-color: black;
+     color: white;    
+}
+
+.parrafo{
+    background-color: yellow;
+    color: blue;
+}
+
+figure{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
